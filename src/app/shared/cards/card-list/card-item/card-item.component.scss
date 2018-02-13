@@ -1,0 +1,12 @@
+:host{
+    flex: 0 1 calc(20% - 8px);
+    margin: 8px 4px;
+    display: flex;
+}
+
+
+
+.mat-card{
+    display: flex;
+    flex-direction: column;
+}
