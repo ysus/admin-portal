@@ -30,6 +30,11 @@ a {
 
   @include on-event {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
+}
+
+
+.example-spacer {
+  flex: 1 1 auto;
 }
